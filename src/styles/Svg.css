@@ -1,0 +1,9 @@
+.svg1 {
+    grid-column: 5;
+    grid-row: 3 / span 2;
+}
+
+.svg2 {
+    grid-column: 1;
+    grid-row: 5;
+}

@@ -1,0 +1,18 @@
+.div1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .img2 {
+    display: block;
+    margin: 0 auto;
+  }
+  .div2 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  .svg1, .svg2 {
+    display: block;
+    margin: 20px auto;
+  }
+  
